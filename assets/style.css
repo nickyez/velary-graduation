@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Sacramento&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Commissioner&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+body {
+  /* background-color: #7360df; */
+  font-family: "Montserrat", sans-serif;
+}
+
+.handwriting {
+  font-family: "Sacramento", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#title {
+  font-size: 4rem;
+  text-align: center;
+  color: #dc84f3;
+  font-weight: 700;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
+}
+#subtitle {
+    font-family: 'Commissioner', sans-serif;
+    color: #0A1D56;
+    text-shadow: 1px 1px 2px #0A1D56;
+    font-size: 3rem;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #E9A8F2;
+}
